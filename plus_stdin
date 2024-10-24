@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2024 Yusei Kobayashi <s23C1054AF@s.chibakoudai.jp>
+# SPDX-FileCopyrightText: 2024 Yusei Kobayashi
 # SPDX-License-Identifier: BSD-3-Clause
 import sys
 def tonum(s):
