@@ -2,13 +2,8 @@
 # SPDX-FileCopyrightText: 2024 Yusei Kobayashi
 # SPDX-License-Identifier: BSD-3-Clause
 import sys
-def tonum(s):
-    try:
-        ans += int(s)
-    except:
-        ans += float(s)
-ans = 0
+ans = 0.0
 for line in sys.stdin:
-    ans += tonum(line)
+    ans += float(line)
 
 print(ans)
