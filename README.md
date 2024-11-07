@@ -4,7 +4,8 @@
 - © 2024 Kobayashi Yusei
 # plusコマンド
 [![test](https://github.com/KobayashiYusei/robosys2024/actions/workflows/test.yml/badge.svg)](https://github.com/KobayashiYusei/robosys2024/actions/workflows/test.yml)
- 標準入力から読み込んだ数字を足すことができます。
+
+標準入力から読み込んだ数字を足すことができます。
 
 
 
